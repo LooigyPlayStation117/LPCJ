@@ -1,0 +1,375 @@
+Microsoft Windows [Versión 10.0.19042.1288]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\ljram>nmap 172.18.0.29/24
+Starting Nmap 7.92 ( https://nmap.org ) at 2021-11-08 18:30 Hora estßndar central (MÚxico)
+Nmap scan report for 172.18.0.1
+Host is up (0.010s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+
+Nmap scan report for 172.18.0.10
+Host is up (0.028s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.15
+Host is up (0.029s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.27
+Host is up (0.025s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.37
+Host is up (0.029s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.49
+Host is up (0.028s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+23/tcp open   telnet
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.51
+Host is up (0.027s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.53
+Host is up (0.023s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+23/tcp open   telnet
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.54
+Host is up (0.030s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.55
+Host is up (0.025s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.58
+Host is up (0.024s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.62
+Host is up (0.024s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+23/tcp open   telnet
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.65
+Host is up (0.028s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.68
+Host is up (0.027s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.73
+Host is up (0.027s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+23/tcp open   telnet
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.75
+Host is up (0.024s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.79
+Host is up (0.023s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+23/tcp open   telnet
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.81
+Host is up (0.024s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.90
+Host is up (0.025s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.100
+Host is up (0.029s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.101
+Host is up (0.019s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.102
+Host is up (0.026s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.105
+Host is up (0.025s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+23/tcp open   telnet
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.106
+Host is up (0.024s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.116
+Host is up (0.025s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.118
+Host is up (0.029s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+23/tcp open   telnet
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.126
+Host is up (0.021s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+53/tcp   open   domain
+445/tcp  closed microsoft-ds
+8081/tcp open   blackice-icecap
+
+Nmap scan report for 172.18.0.134
+Host is up (0.024s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.136
+Host is up (0.022s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+53/tcp   open   domain
+445/tcp  closed microsoft-ds
+8081/tcp open   blackice-icecap
+
+Nmap scan report for 172.18.0.141
+Host is up (0.025s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+23/tcp open   telnet
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.145
+Host is up (0.030s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.147
+Host is up (0.024s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+23/tcp open   telnet
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.148
+Host is up (0.027s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.157
+Host is up (0.022s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.163
+Host is up (0.026s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.165
+Host is up (0.022s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.185
+Host is up (0.028s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.190
+Host is up (0.027s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.210
+Host is up (0.027s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+23/tcp open   telnet
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.215
+Host is up (0.025s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.219
+Host is up (0.027s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.220
+Host is up (0.028s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.225
+Host is up (0.027s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.227
+Host is up (0.026s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.229
+Host is up (0.026s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.237
+Host is up (0.025s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.238
+Host is up (0.027s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.241
+Host is up (0.024s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+23/tcp open   telnet
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.243
+Host is up (0.025s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.247
+Host is up (0.022s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap scan report for 172.18.0.255
+Host is up (0.025s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+21/tcp closed ftp
+53/tcp open   domain
+
+Nmap done: 256 IP addresses (51 hosts up) scanned in 148.36 seconds
