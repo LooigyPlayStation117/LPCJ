@@ -1,9 +1,10 @@
+#!/bin/python3
 from pyhunter import PyHunter
 
-ApiKey = input("ingrese su apikey: ")
+ApiKey = input("Ingrese la llave de la API: ")
 hunter = PyHunter (ApiKey)
-#Dominio = input("ingrese el dominio en url: ")
+Dominio = input("Ingrese un Dominio en url: ")
+Busqueda = hunter.domain_search (Dominio)
 
-#Puede cambiar la url por Dominio
-Busqueda = hunter.domain_search ('https://www.uanl.mx/') 
+#Busqueda = hunter.domain_search ('https://www.uanl.mx/') 
 print(Busqueda)
