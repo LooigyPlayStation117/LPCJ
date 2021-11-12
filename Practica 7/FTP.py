@@ -32,7 +32,7 @@ def get_file_name(file_info: str) -> str:
 
 
 def connect_ftp(
-    host: str, port: int = FTP_PORT, usr: str = "", pwd: str = "", save_path: str = ""
+    host: str, port: int = FTP_PORT, usr: str = "anonymous", pwd: str = "", save_path: str = ""
 ):
     connection = FTP()
     connection.connect(host=host, port=port, timeout=3)
